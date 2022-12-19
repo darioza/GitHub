@@ -1,6 +1,6 @@
 # GitHub
  
-### "Olá pessoas!" \o/ 👋
+### "Olá, pessoal!" \o/ 👋
 
           <p>Mais de 12 anos de experiência trabalhando nos principais players da Indústria de Tecnologia da Informação e Serviços.
           Grande habilidade para entender ambientes complexos e simplificá-los cruzando recursos de software, hardware e serviços juntos.</p>
@@ -13,9 +13,8 @@
           <p>🎓 Especialista em Gerenciamento de Projetos</p>
           <p>🎓 Especialista em Sistemas de Telecomunicaçoes</p>
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/DevSoutinho)](https://youtube.com/c/DevSoutinho)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/omariosouto)](https://twitter.com/omariosouto)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/omariosouto)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/daniel_arioza)](https://twitter.com/daniel_arioza)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-arioza)](https://www.linkedin.com/in/daniel-arioza)
 
 ### 📹 Recent Videos on YouTube!
 
