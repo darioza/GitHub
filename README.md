@@ -1,6 +1,6 @@
 # GitHub
  
-### "Olá pessoas!" \o/ 👋
+### "Fala, pessoal!" \o/ 👋
 
           Mais de 12 anos de experiência trabalhando nos principais players da Indústria de Tecnologia da Informação e Serviços.
           Grande habilidade para entender ambientes complexos e simplificá-los cruzando recursos de software, hardware e serviços juntos.
